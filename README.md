@@ -1,8 +1,8 @@
 ### Hi there I'm Morgan Zellers 👋
 
-Into Swift & iOS 
+Into Swift, iOS, & a splash of Infra
 
-Currently working on [Workflow](https://github.com/wwt/Workflow)
+Currently working on [Workflow](https://github.com/wwt/Workflow) at [WWT](https://www.wwt.com/about/careers)
 
 <!--
 **morganzellers/morganzellers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
