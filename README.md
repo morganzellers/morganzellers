@@ -1,6 +1,12 @@
 ### Hi there I'm Morgan Zellers 👋
 
-Into Swift, iOS, & a splash of Infra
+#### Into:
+
+🧡 Swift
+
+📱 iOS
+
+📚 a splash of Infra
 
 Currently working on [Workflow](https://github.com/wwt/Workflow) at [WWT](https://www.wwt.com/about/careers)
 
