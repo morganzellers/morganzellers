@@ -1,7 +1,5 @@
 ### Hi there I'm Morgan Zellers 👋
 
-#### Into:
-
 🧡 Swift
 
 📱 iOS
