@@ -6,7 +6,7 @@
 
 📚 a splash of Infra
 
-Currently working on [SwiftCurrent](https://github.com/wwt/SwiftCurrent) at [WWT](https://www.wwt.com/about/careers)
+Currently at [WWT](https://www.wwt.com/about/careers). Check out [SwiftCurrent](https://github.com/wwt/SwiftCurrent)!
 
 [![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=morganzellers)](https://github.com/anuraghazra/github-readme-stats)
 
