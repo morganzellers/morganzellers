@@ -6,7 +6,7 @@
 
 📚 a splash of Infra
 
-Currently at [WWT](https://www.wwt.com/about/careers). Check out [SwiftCurrent](https://github.com/wwt/SwiftCurrent)!
+Currently at [WWT](https://www.wwt.com/about/careers). Check out [Congress Vote Tracker!]([https://github.com/wwt/SwiftCurrent](https://apps.apple.com/us/app/do-your-civic-duty/id6445804489))!
 
 [![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=morganzellers)](https://github.com/anuraghazra/github-readme-stats)
 
