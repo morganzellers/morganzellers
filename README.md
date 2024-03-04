@@ -6,7 +6,7 @@
 
 📚 a splash of Infra
 
-Currently at [WWT](https://www.wwt.com/about/careers). Check out [Congress Vote Tracker](https://apps.apple.com/us/app/do-your-civic-duty/id6445804489)!
+Building [Congress Vote Tracker](https://apps.apple.com/us/app/do-your-civic-duty/id6445804489) on the side
 
 [![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=morganzellers)](https://github.com/anuraghazra/github-readme-stats)
 
