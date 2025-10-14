@@ -1,12 +1,6 @@
 ### Hi there I'm Morgan Zellers 👋
 
-🧡 Swift
-
-📱 iOS
-
-📚 a splash of Infra
-
-Building [Congress Vote Tracker](https://apps.apple.com/us/app/do-your-civic-duty/id6445804489) on the side
+Building [Congress Vote Tracker](https://apps.apple.com/us/app/do-your-civic-duty/id6445804489) & others on the side
 
 
 
