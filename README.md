@@ -1,6 +1,5 @@
-Personal account for [morganzellers-bw](https://github.com/morganzellers-bw)
 ### Hi there I'm Morgan Zellers 👋
-
+Personal account for [morganzellers-bw](https://github.com/morganzellers-bw)
 Building [Congress Vote Tracker](https://apps.apple.com/us/app/do-your-civic-duty/id6445804489) & others on the side
 
 
